@@ -24,7 +24,7 @@
       💬 <b>Idiomas:</b> Português (Nativo) e Inglês.
     </td>
     <td width="40%" align="center">
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGpmNWhpZGNqczFnMW1rcXphNmdrZWh3ODF2M2N0NmE2eWN5cXkyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggCGvnPzgG23zX/giphy.gif" width="100%" alt="Coding Animation">
+      <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="100%" alt="Coding Animation">
     </td>
   </tr>
 </table>
